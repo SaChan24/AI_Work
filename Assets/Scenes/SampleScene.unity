@@ -644,7 +644,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 021e2b86e1cfb404e8e3ebe1374234f4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.182
+      value: -0.057
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 021e2b86e1cfb404e8e3ebe1374234f4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -810,9 +810,13 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'R - Agree_Gesture
 
-    T - Dead
+    T - Clap
 
-    F - Idle'
+    F - Idle
+
+    G - Fall Dead
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -984,11 +988,11 @@ Animator:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1300246965}
   m_Enabled: 1
-  m_Avatar: {fileID: 0}
+  m_Avatar: {fileID: 9000000, guid: 021e2b86e1cfb404e8e3ebe1374234f4, type: 3}
   m_Controller: {fileID: 9100000, guid: f982ccbccdaec2b459a451ad426f5d62, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
-  m_ApplyRootMotion: 1
+  m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
   m_AnimatePhysics: 0

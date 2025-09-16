@@ -1,0 +1,11 @@
+{
+    "asset": "a15a6e3381e6a99439aeef68fae764c3",
+    "fileName": "019953ff-14f1-7dee-a191-41b64c312c79.pose.json",
+    "prompt": "Fall Dead",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 1417513623,
+    "w3CTraceId": "9b0ffe7bea75a09c1069fffbea906244",
+    "isTrimmed": false
+}

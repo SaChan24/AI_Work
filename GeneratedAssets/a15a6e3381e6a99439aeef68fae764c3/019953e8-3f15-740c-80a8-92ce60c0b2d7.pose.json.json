@@ -1,0 +1,11 @@
+{
+    "asset": "a15a6e3381e6a99439aeef68fae764c3",
+    "fileName": "019953e8-3f15-740c-80a8-92ce60c0b2d7.pose.json",
+    "prompt": "Clap your Hand",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 914030147,
+    "w3CTraceId": "27f03a8e07acbc1fe059e27ca311163f",
+    "isTrimmed": false
+}
