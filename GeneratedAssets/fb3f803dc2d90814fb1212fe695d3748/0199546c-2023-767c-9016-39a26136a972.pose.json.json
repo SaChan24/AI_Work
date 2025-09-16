@@ -1,0 +1,11 @@
+{
+    "asset": "fb3f803dc2d90814fb1212fe695d3748",
+    "fileName": "0199546c-2023-767c-9016-39a26136a972.pose.json",
+    "prompt": "stand still and put left hand up and down",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 933604529,
+    "w3CTraceId": "9dc5ef17b1e22a50fae2bd6a912fb2a5",
+    "isTrimmed": false
+}

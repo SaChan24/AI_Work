@@ -808,11 +808,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'R - Agree_Gesture
+  m_text: 'R - jump up spin around
 
     T - Clap
 
-    F - Idle
+    F - Wave Hi
 
     G - Fall Dead
 

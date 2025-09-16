@@ -1,0 +1,11 @@
+{
+    "asset": "2058601786d48b24687fea103f1457aa",
+    "fileName": "01995468-5728-7885-97ba-bd9575d2970a.pose.json",
+    "prompt": "Jump up spin",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 2065296952,
+    "w3CTraceId": "db28590c57ca762bff2930131e789221",
+    "isTrimmed": false
+}
