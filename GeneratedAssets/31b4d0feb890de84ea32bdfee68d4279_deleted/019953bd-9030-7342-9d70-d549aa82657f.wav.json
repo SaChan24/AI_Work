@@ -1,0 +1,13 @@
+{
+    "asset": "31b4d0feb890de84ea32bdfee68d4279",
+    "fileName": "019953bd-9030-7342-9d70-d549aa82657f.wav",
+    "prompt": "“A dark, powerful, and cinematic soundtrack with heavy drums and ominous bass, blended with smooth and flowing tones — evoking the image of a stylish demon walking with confidence, intense yet easy on the ear, thrilling and heart-pounding.”",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "603da771f1c5ac6603d1a1f2f4c9922b",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

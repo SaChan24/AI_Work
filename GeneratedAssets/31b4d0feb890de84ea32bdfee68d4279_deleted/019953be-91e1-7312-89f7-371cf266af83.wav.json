@@ -1,0 +1,13 @@
+{
+    "asset": "31b4d0feb890de84ea32bdfee68d4279",
+    "fileName": "019953be-91e1-7312-89f7-371cf266af83.wav",
+    "prompt": "“A dark, powerful, and cinematic soundtrack with heavy drums and ominous bass, blended with smooth and flowing tones ",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "62500bf2a4a1f6e087e32e15ec68b285",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

@@ -1,0 +1,13 @@
+{
+    "asset": "31b4d0feb890de84ea32bdfee68d4279",
+    "fileName": "019953c1-3eb5-7ae7-92f8-b832323c4304.wav",
+    "prompt": "A smooth, deep, and flowing soundtrack with a dark aura — soft yet powerful, evoking the graceful walk of a stylish demon. Mysterious, haunting, and irresistibly captivating.\n",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "b51db1896a03f773fdeb2fedc2175611",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

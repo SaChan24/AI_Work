@@ -1,0 +1,13 @@
+{
+    "asset": "bf645f51e80c08d49b6852971e2b7206",
+    "fileName": "019953c8-c589-7a34-828f-2ff281ee6f3c.wav",
+    "prompt": "Smooth dark cinematic soundtrack, deep velvety bass, flowing ambient pads, soft tribal percussion, mysterious yet elegant — evoking a demon walking with confidence, silky and haunting.",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "c4c2cf69a05fbacfa3906e0ef033c103",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

@@ -1,0 +1,13 @@
+{
+    "asset": "31b4d0feb890de84ea32bdfee68d4279",
+    "fileName": "019953c0-15d0-71f2-b41e-61cc3fd26e28.wav",
+    "prompt": "A smooth and melodic soundtrack with flowing harmonies, gentle rhythms, and soothing tones — easy on the ear and comforting to listen to.",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "1a587af92e6859c6ef3bfb872633f374",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

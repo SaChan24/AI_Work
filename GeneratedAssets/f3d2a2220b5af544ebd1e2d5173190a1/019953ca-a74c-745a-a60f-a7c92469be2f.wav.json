@@ -1,0 +1,13 @@
+{
+    "asset": "bf645f51e80c08d49b6852971e2b7206",
+    "fileName": "019953ca-a74c-745a-a60f-a7c92469be2f.wav",
+    "prompt": "A smooth, deep soundtrack for a stylish demon character: silky low bass, warm analog pads, soft legato strings, distant choir textures, gentle cinematic percussion with brushed snares and soft toms. Use subtle tribal pulses and sliding synths for movement. Atmosphere should be mysterious and elegant — haunting but velvety. Tempo: 65 BPM. Key: D minor. Add roomy reverb, soft chorus on pads, slight tape saturation on bass, and a slow filter sweep to create presence.",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "a4a8a2ca8f8e32d307a3c152adb9ed7a",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

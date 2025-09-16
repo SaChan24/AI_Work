@@ -1,0 +1,13 @@
+{
+    "asset": "31b4d0feb890de84ea32bdfee68d4279",
+    "fileName": "019953c3-39ae-730d-b94e-d634dfd81ab4.wav",
+    "prompt": "Smooth dark demon theme — deep, silky bass, warm pads, gentle tribal pulses, soft cinematic percussion; mysterious and elegant, haunting yet velvety. 60-80 BPM, minor key, ambient reverb.",
+    "negativePrompt": "",
+    "model": "0ee39b33-2893-4e0f-8c46-0e0bdd4eda85",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "e0810d6d9036c67e3c51aa8f37219a77",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}
