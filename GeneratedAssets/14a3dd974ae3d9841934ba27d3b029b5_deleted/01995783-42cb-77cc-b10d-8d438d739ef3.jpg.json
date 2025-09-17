@@ -1,0 +1,20 @@
+{
+    "asset": "14a3dd974ae3d9841934ba27d3b029b5",
+    "fileName": "01995783-42cb-77cc-b10d-8d438d739ef3.jpg",
+    "prompt": "Steel texture for display on place",
+    "negativePrompt": "",
+    "model": "7a1d56ee-91f3-4a7f-b1ac-04a20d3283a1",
+    "modelName": "Environment Sprites",
+    "customSeed": -1,
+    "w3CTraceId": "b660868b648b07020b7044536ff17e4e",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

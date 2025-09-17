@@ -1,0 +1,20 @@
+{
+    "asset": "f70a35fd0ec623540aa7057a5d3b13f4",
+    "fileName": "0199578d-d27d-76ce-96ff-93bde9f9ea07.jpg",
+    "prompt": "Steel texture for display on place",
+    "negativePrompt": "background",
+    "model": "fa6e0327-dd80-4b48-865f-5a3aa03f82b8",
+    "modelName": "Flux.1 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "94e90d82057721068571a2f6d89c05b3",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

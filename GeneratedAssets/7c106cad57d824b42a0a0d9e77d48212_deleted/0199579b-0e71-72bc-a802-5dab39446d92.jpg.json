@@ -1,0 +1,20 @@
+{
+    "asset": "7c106cad57d824b42a0a0d9e77d48212",
+    "fileName": "0199579b-0e71-72bc-a802-5dab39446d92.jpg",
+    "prompt": "Glass texture for display on place",
+    "negativePrompt": "background",
+    "model": "fa6e0327-dd80-4b48-865f-5a3aa03f82b8",
+    "modelName": "Flux.1 Pro",
+    "customSeed": -1,
+    "w3CTraceId": "cd52dedb276d8920bc2c78a77a07f812",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

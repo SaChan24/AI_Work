@@ -926,11 +926,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: fbff9ab2-8bb3-4f48-aaf2-77bbb78fe7d3
+  cloudProjectId: d040d6f6-4dc2-4fe0-9ce5-f960063b745c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: AITest (2)
-  organizationId: taripoom_2224
+  projectName: AI_Work
+  organizationId: unity_6dbb2563443aa29fe3f3
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

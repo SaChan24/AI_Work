@@ -1,0 +1,20 @@
+{
+    "asset": "73fecb9956d62a648ae5bb7afed94414",
+    "fileName": "019957a8-53de-7502-b0b0-0d5780fb5ace.jpg",
+    "prompt": "Wood texture for display on place",
+    "negativePrompt": "background",
+    "model": "94c4260f-b988-40e7-b3d3-435b9f449bd0",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "66e2019c80d6d8dffc43296bc02b23c0",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

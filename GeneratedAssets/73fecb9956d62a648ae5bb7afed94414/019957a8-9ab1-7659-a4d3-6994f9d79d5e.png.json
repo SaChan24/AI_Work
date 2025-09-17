@@ -1,0 +1,20 @@
+{
+    "asset": "73fecb9956d62a648ae5bb7afed94414",
+    "fileName": "019957a8-9ab1-7659-a4d3-6994f9d79d5e.png",
+    "prompt": "Wood texture for display on place",
+    "negativePrompt": "background",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": -1,
+    "w3CTraceId": "5a1453cc2c8e9b70a62ace28d865dbea",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
